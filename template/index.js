@@ -11,7 +11,7 @@
 
 import './commoncode'
 
-const defaultEdition = 'eng-mustafakhattabg'
+const defaultEdition = 'amh-muhammedsadiqan'
 
 
 
