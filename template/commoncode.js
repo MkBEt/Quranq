@@ -73,7 +73,8 @@ window.getElement = function (elementName, attributesObj) {
   return element
 }
 
-window.apiLinks = ["https://cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1/", "https://raw.githubusercontent.com/fawazahmed0/quran-api/1/"]
+window.apiLinks = ["https://cdn.jsdelivr.net/gh/MkBEt/quran-api@1/", "https://raw.githubusercontent.com/MkBEt/quran-api/1/"]
+
 window.extensions = [".min.json", ".json"]
 
 // https://www.shawntabrizi.com/code/programmatically-fetch-multiple-apis-parallel-using-async-await-javascript/
